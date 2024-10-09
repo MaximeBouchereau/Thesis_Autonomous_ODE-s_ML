@@ -15,7 +15,7 @@ Après choix du système dynamique souhaité, fonctions permettant:
 - Création de données
 - Entraînement via minimisation de la Loss
 - Intégration numérique
-- Courbe de convergence: méthode numérique vs méthode numérique améliorée via ML
+- Courbe de convergence: méthode numérique vs méthode numérique améliorée via ML (vs méthode avec termes successifs du champ modifié)
 - Courbe de convergence: approximation du champ modifié par rapport au pas de temps
 - Graphe d'erreur: erreur en espace entre le champ modifié appris et le champ modifié exact
 - Temps de calcul vs erreur numérique: méthode numérique, méthode numérique améliorée via ML, DOPRI5 (méthode de Runge-Kutta d'ordre 5).
@@ -42,7 +42,7 @@ After dynamical system selection, functions of the code enable to:
 - Data creation
 - Training via Loss minimization
 - Numerical integration
-- Convergence curve: numerical method vs improved numerical method via ML
+- Convergence curve: numerical method vs improved numerical method via ML (vs method with successive terms of the modified field)
 - Convergence curve: approximation of modified field w.r.t. step size
 - Error graph: space error between approximated modified field and exact modified field
 - Computational time vs numerical error: numérical error, improved numerical error via ML, DOPRI5 (5th order Runge-Kutta method)
