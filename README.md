@@ -18,7 +18,7 @@ Après choix du système dynamique souhaité, fonctions permettant:
 - Courbe de convergence: méthode numérique vs méthode numérique améliorée via ML
 - Temps de calcul vs erreur numérique: méthode numérique, méthode numérique améliorée via ML, DOPRI5 (méthode de Runge-Kutta d'ordre 5).
 
-### RKmodif2 ###
+### RKmodif2 - Comparison_RK_modif_1_2 ###
 
 Etude du cas particulier de la méthode d'Euler explicite avec apprentissage séparé de chaque terme du champ modifié. Comparaison avec le programme précédent.
 
@@ -43,6 +43,6 @@ After dynamical system selection, functions of the code enable to:
 - Convergence curve: numerical method vs improved numerical method via ML
 - Computational time vs numerical error: numérical error, improved numerical error via ML, DOPRI5 (5th order Runge-Kutta method)
 - 
-### RKmodif2 ###
+### RKmodif2 - Comparison_RK_modif_1_2 ###
 
 Particular case of Forward Euler method with separate learning of each term of the modified field. Comparison with previous code.
